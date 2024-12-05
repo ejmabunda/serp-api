@@ -1,9 +1,13 @@
 from flask import Flask, render_template, request
-import serpapi
+from serpapi import GoogleSearch
 import os
+from dotenv import load_dotenv
+import json
+import re
 
 
 app = Flask(__name__)
+load_dotenv()
 
 
 @app.route('/')
@@ -22,4 +26,7 @@ def search(q: str = ''):
         }
         search = GoogleSearch(params)
         
-    return render_template('results.html', results=search.get_dict())
+        results_key = re.search(r'\w*_(results)', " ".join(search.get_dict().keys()))
+        results = search.get_dict()[results_key.group(0)]
+        
+    return render_template('results.html', results=results)
