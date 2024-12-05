@@ -1,11 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>Search</title>
-  </head>
-  
-  <body>
-    <h1>Hello, world!</h1>
-  </body>
-</html>
+{% extends 'base.html' %}
 
+{% block title %}Search for Anything{% endblock %}
+
+{% block main_header %}
+<form action='/search/' method='post'>
+  <input name='search_query' id='search_query' type='search'>
+  <input name='search_btn' id='search_btn' type='submit' value='Search'>
+</form>
+
+<ul id='tags'>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+</ul>
+{% endblock %}
