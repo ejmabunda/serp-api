@@ -6,3 +6,6 @@ __pycache__
 
 # Ignore the environment
 .env
+
+# Ignore the Python virtual environment
+.venv
