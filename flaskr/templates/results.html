@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block title %}Search Query{% endblock %}
+
+{% block main_header %}
+<form action='#' method='post'>
+  <input type='search'>
+  <input type='submit' value='Search'>
+</form>
+
+<ul id='tags'>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+  <li><a href='#'>Refine Search</a></li>
+</ul>
+{% endblock %}
+
+{% for result in results %}
+<div class='search_result'>
+  <figure>
+    <img src='{{result}}' alt='{{result}}'>
+    <figcaption>{{result}}</figcaption>
+  </figure>
+</div>
+{% endblock %}
