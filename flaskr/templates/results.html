@@ -2,29 +2,28 @@
 
 {% block title %}Search Query{% endblock %}
 
-{% block main_header %}
-<form action='/results' method='post'>
-  <input name='search_query' id='search_query' type='search'>
-  <input name='search_btn' id='search_btn' type='submit' value='Search'>
-</form>
-
-<ul id='tags'>
-  <li><a href='#'>Refine Search</a></li>
-  <li><a href='#'>Refine Search</a></li>
-  <li><a href='#'>Refine Search</a></li>
-  <li><a href='#'>Refine Search</a></li>
-  <li><a href='#'>Refine Search</a></li>
-</ul>
-{% endblock %}
 
 {% block results %}
-{% for result in results %}
-<div class='search_result'>
-  <figure>
-    <img src='{{result['thumbnail']}}' alt='{{result['title']}}'>
-    <figcaption>{{result['title']}}</figcaption>
-  </figure>
-  <a href='{{result['link']}}'>{{result['link']}}</a>
-</div>
-{% endfor %}
+<section id='results'>
+  <!-- Organic Results -->
+  <section id='organic_results'>
+    {% for result in organic_results %}
+    <section class='organic_result'>
+      <p class='link'>{{result['link']}}</p>
+      <h2 class='title'>{{result['title']}}</h2>
+      <p class='description'>{{result['snippet']}}</p>
+    </section>
+    {% endfor %}
+  </section>
+
+  <!-- Knowledge Graph -->
+  <aside id='knowlegde_graph'>
+    
+  </aside>
+
+  <!-- Pagination -->
+  <section id='pagination'>
+    
+  </section>
+</section>
 {% endblock %}

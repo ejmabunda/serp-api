@@ -4,7 +4,7 @@ import os
 from dotenv import load_dotenv
 import json
 import re
-
+from flaskr.storage import save
 
 app = Flask(__name__)
 load_dotenv()
@@ -25,8 +25,13 @@ def search(q: str = ''):
             'api_key': os.environ.get('SERP_API_KEY')
         }
         search = GoogleSearch(params)
+        search_dict = search.get_dict()
+        # Save to a json file
+        save(search_dict)
         
-        results_key = re.search(r'\w*_(results)', " ".join(search.get_dict().keys()))
-        results = search.get_dict()[results_key.group(0)]
+        organic_results = search_dict['organic_results']
+        knowledge_graph = search_dict['knowledge_graph']
         
-    return render_template('results.html', results=results)
+    return render_template('results.html',
+                           organic_results=organic_results,
+                           knowledge_graph=knowledge_graph)

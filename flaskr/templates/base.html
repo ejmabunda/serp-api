@@ -6,7 +6,7 @@
     <meta charset='utf-8'>
     <meta name='description' content=''>
     
-    <title>{% block title %}{% endblock %}- SERP app</title>
+    <title>{% block title %}{% endblock %} - SERP app</title>
 
     <!-- Styles -->
     <link rel='stylesheet' href='{{ url_for('static', filename='css/main.css') }}'>
@@ -16,6 +16,10 @@
   <body>
     <!-- Header section -->
     <header>
+      <form method='post' action='/results'>
+        <input name='search' id='search' type='search' placeholder='Search the web'/>
+        <input name='submit' id='submit' type='submit'/>
+      </form>
       {% block main_header %}{% endblock %}
     </header>
 
@@ -26,7 +30,6 @@
 
     <!-- Sidebar -->
     <aside></aside>
-
     <!-- Footer section -->
     <footer>
       <p>Copyright &copy; 2024</p>
