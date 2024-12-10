@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- Metadata -->
+    <meta charset='utf-8'>
+    <meta name='description' content=''>
+    
+    <title>{% block title %}{% endblock %}- SERP app</title>
+
+    <!-- Styles -->
+    <link rel='stylesheet' href='{{ url_for('static', filename='css/main.css') }}'>
+    <link rel='icon' type='x-icon/image' href='{{ url_for('static', filename='images/favicon.ico') }}'>
+  </head>
+
+  <body>
+    <!-- Header section -->
+    <header>
+      {% block main_header %}{% endblock %}
+    </header>
+
+    <!-- Main section -->
+    <main>
+      {% block results %}{% endblock %}
+    </main>
+
+    <!-- Sidebar -->
+    <aside></aside>
+
+    <!-- Footer section -->
+    <footer>
+      <p>Copyright &copy; 2024</p>
+    </footer>
+  </body>
+
+</html>

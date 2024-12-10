@@ -1,0 +1,12 @@
+# Ignore Python temp files
+__pycache__
+
+# Ignore Emacs temp files
+*~
+
+# Ignore the environment
+.env
+
+# Ignore the Python virtual environment
+.venv
+venv

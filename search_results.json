@@ -1,0 +1,986 @@
+{
+    "search_metadata": {
+        "id": "6752070314c31ed7529327c1",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4d7282d145212958/6752070314c31ed7529327c1.json",
+        "created_at": "2024-12-05 20:03:15 UTC",
+        "processed_at": "2024-12-05 20:03:15 UTC",
+        "google_url": "https://www.google.com/search?q=choc+chip&oq=choc+chip&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/4d7282d145212958/6752070314c31ed7529327c1.html",
+        "total_time_taken": 3.97
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "choc chip",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "choc chip",
+        "total_results": 18400000,
+        "time_taken_displayed": 0.38,
+        "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+        "spelling_fix": "chocolate chip"
+    },
+    "recipes_results": [
+        {
+            "title": "Chewy Chocolate Chip Cookies",
+            "link": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/",
+            "source": "Sally's Baking Addiction",
+            "rating": 4.7,
+            "reviews": 1300,
+            "total_time": "3 hr 22 min",
+            "ingredients": [
+                "Dark brown sugar",
+                "sweet chocolate chips",
+                "baking soda",
+                "egg yolk",
+                "all purpose flour"
+            ],
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/83039f179c384a7796a139bdcf1065e6ccbab8d57c0d0ae2ff9192ba96af4137.jpeg"
+        },
+        {
+            "title": "Best Chocolate Chip Cookies",
+            "link": "https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/",
+            "source": "Allrecipes",
+            "rating": 4.6,
+            "reviews": 19000,
+            "total_time": "30 min",
+            "ingredients": [
+                "Brown sugar",
+                "chocolate chips",
+                "eggs",
+                "baking soda",
+                "hot water"
+            ],
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/83039f179c384a7796a139bdcf1065e6846431e117c2514ad6aad1e80893b50f.jpeg"
+        },
+        {
+            "title": "Best Homemade Chocolate Chip Cookies",
+            "link": "https://cookiesfordays.com/chocolate-chip-cookie-recipe/",
+            "source": "Cookies for Days",
+            "rating": 4.9,
+            "reviews": 325,
+            "total_time": "25 min",
+            "ingredients": [
+                "Brown sugar",
+                "chocolate chips",
+                "egg",
+                "baking soda",
+                "salted butter"
+            ],
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/83039f179c384a7796a139bdcf1065e602a8683a45f774b74631f7d6127f1c60.jpeg"
+        }
+    ],
+    "knowledge_graph": {
+        "title": "Chocolate chip",
+        "type": "Food",
+        "entity_type": "food, kp3_verticals",
+        "kgmid": "/m/05rr0j",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/05rr0j&hl=en-US&q=Chocolate+chip",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F05rr0j&q=Chocolate+chip",
+        "header_images": [
+            {
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a01555704ba003fb8c69464839fd3a190124bcd6742b6541c85ad48.webp"
+            },
+            {
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a01555704ba003fb8c69464c75018aa740dea69a966d14b630670ae.webp"
+            },
+            {
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a01555704ba003fb8c694642957828e4c57ec59a19d730952ef3fcf.webp"
+            },
+            {
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a01555704ba003fb8c694641c719d677d4f0016e3623435542c4f4d.webp"
+            }
+        ],
+        "more_general_ingredient": "Chocolate",
+        "web_results": [
+            {
+                "link": "https://en.wikipedia.org/wiki/Chocolate_chip"
+            }
+        ],
+        "people_also_search_for": [
+            {
+                "name": "Chocolate",
+                "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzH3mG41Vz18SMI3Stfexpb2dmuAtVU28xEas3QKrpl_uUFwnuE78eeiix_FB7wKAW6ZvteuKNvF1QGPc_9hwQ7WW_hQaQcS80LZLTohewxS3XIMYTW_7S1I8wnQXZ3CvPyoL5gCO6ixaFDrm_r30zwloSFOFq7t7SNA7le3sYuDJvRV5WG2YW0s-905tDd40XaFRS84zOA0oALorSLzIbL4QMboJ0Q2uKtX4M3xPmSaL6fyrkpQ-zyFXEUltyzBMRQXpVs%3D&q=Chocolate&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQs9oBKAB6BAgpEAI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chocolate&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqmzH3mG41Vz18SMI3Stfexpb2dmuAtVU28xEas3QKrpl_uUFwnuE78eeiix_FB7wKAW6ZvteuKNvF1QGPc_9hwQ7WW_hQaQcS80LZLTohewxS3XIMYTW_7S1I8wnQXZ3CvPyoL5gCO6ixaFDrm_r30zwloSFOFq7t7SNA7le3sYuDJvRV5WG2YW0s-905tDd40XaFRS84zOA0oALorSLzIbL4QMboJ0Q2uKtX4M3xPmSaL6fyrkpQ-zyFXEUltyzBMRQXpVs%3D",
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a0155575cda01e09b5b4d028b89e0c0d816aef71e43d66a74b2b09b4637ae131a0637df.jpeg"
+            },
+            {
+                "name": "Dark chocolate",
+                "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgPU2ugwaMXnaf-VK1bFkHF4WfIAje7nMxPADgGmxq7-YWuMYFKAEB7rcghgivfFy3eBWfsbiEWLOcI3MibL6bl3bvpJXLVxciszBJvFV7F0vmsMsLAnMFS77byoAPJG0sexUra-greeIIr63Orb5BqvA7CG4eOIBYBAp8eIM204WzgR2KCfty67Y_d-JRxteY958VFPmX9dCRtlxUiSahyuRJ3jC2E4sh3P094IfemTtKbiDz4TZ8D11PPlgtUmqROZsQhU16WXWAr6QGNQJHbsvaDCC&q=Dark+chocolate&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQs9oBKAF6BAgpEAM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Dark+chocolate&si=ACC90nwLLwns5sISZcdzuISy7t-NHozt8Cbt6G3WNQfC9ekAgPU2ugwaMXnaf-VK1bFkHF4WfIAje7nMxPADgGmxq7-YWuMYFKAEB7rcghgivfFy3eBWfsbiEWLOcI3MibL6bl3bvpJXLVxciszBJvFV7F0vmsMsLAnMFS77byoAPJG0sexUra-greeIIr63Orb5BqvA7CG4eOIBYBAp8eIM204WzgR2KCfty67Y_d-JRxteY958VFPmX9dCRtlxUiSahyuRJ3jC2E4sh3P094IfemTtKbiDz4TZ8D11PPlgtUmqROZsQhU16WXWAr6QGNQJHbsvaDCC",
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a0155575cda01e09b5b4d028b89e0c0d816aef765b6215fdbb0d907a66605577fa30a3c.jpeg"
+            },
+            {
+                "name": "Brown sugar",
+                "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8YgcPO_6dBDhnDxdLOu3r_Pf69Q3_X5r3Ub9JLcZGuSaPfWOTBhglv3HdRZfWBbTTL6TiU_KzX_VX7dFlFxMOLH8JuVeBCL6JihosZVY09d9zOOmG5pyQMqpuuMqhARWkhz6-noHTqdSEC0547IQhIG8Tee_UKrhRaiX6PW83AQfshiVfgIxyrg1y8x5ebnz7zzB3lZNcKmN4uds0n5jFJWooV82c4Drs4qkosTtjm7JDHbO088AaFyXb9k0DmaBCZ2jPk%3D&q=Brown+Sugar&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQs9oBKAJ6BAgpEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Brown+Sugar&si=ACC90nzx_D3_zUKRnpAjmO0UBLNxnt7EyN4YYdru6U3bxLI-L8YgcPO_6dBDhnDxdLOu3r_Pf69Q3_X5r3Ub9JLcZGuSaPfWOTBhglv3HdRZfWBbTTL6TiU_KzX_VX7dFlFxMOLH8JuVeBCL6JihosZVY09d9zOOmG5pyQMqpuuMqhARWkhz6-noHTqdSEC0547IQhIG8Tee_UKrhRaiX6PW83AQfshiVfgIxyrg1y8x5ebnz7zzB3lZNcKmN4uds0n5jFJWooV82c4Drs4qkosTtjm7JDHbO088AaFyXb9k0DmaBCZ2jPk%3D",
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a0155575cda01e09b5b4d028b89e0c0d816aef7ff9feeb091fb41cc154953b54f740091.jpeg"
+            },
+            {
+                "name": "Cookie",
+                "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5WcqGgcI3guuvycrSeS9O8TUu1INh3X9YR--OQsNo9j3pLPV7vpyhzoBLwiufTtDrm7wDYA0Q0MEtdgZkHykl-7STDG07OvF8mSAGCauwEIE1dp2saeD8hKLJUbD_mAjtM2YZo_Rng9MAr9dHzm6Jyk6PuHK2Clnr49KZN56Pf23S_5MjGidbhdT7LWN5iSOCciK3zPprqd4Zt9V_KXwr0yNafGq-RwDmnDDjxwMR8ILSymJGxSOsnhhFEHYWq5tNa-H00%3D&q=Cookie&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQs9oBKAN6BAgpEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cookie&si=ACC90nyvvWro6QmnyY1IfSdgk5wwjB1r8BGd_IWRjXqmKPQqm5WcqGgcI3guuvycrSeS9O8TUu1INh3X9YR--OQsNo9j3pLPV7vpyhzoBLwiufTtDrm7wDYA0Q0MEtdgZkHykl-7STDG07OvF8mSAGCauwEIE1dp2saeD8hKLJUbD_mAjtM2YZo_Rng9MAr9dHzm6Jyk6PuHK2Clnr49KZN56Pf23S_5MjGidbhdT7LWN5iSOCciK3zPprqd4Zt9V_KXwr0yNafGq-RwDmnDDjxwMR8ILSymJGxSOsnhhFEHYWq5tNa-H00%3D",
+                "image": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/4a6b44b7b224a75ace6120338a0155575cda01e09b5b4d028b89e0c0d816aef7851472188d4b84baf6da7edbab4a3f57.jpeg"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "The best choc chip cookies. Period. #baking #recipe",
+            "link": "https://www.youtube.com/watch?v=P9Vw7rRCE3g",
+            "thumbnail": "https://i.ytimg.com/vi/P9Vw7rRCE3g/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3kb8GB2y-KLwSIdCcB6CrTt7_vU0w",
+            "channel": "BROOKI",
+            "duration": "1:00",
+            "platform": "YouTube",
+            "date": "3 weeks ago"
+        },
+        {
+            "position": 2,
+            "title": "The Perfect Chocolate Chip Cookie | 3 Levels: Easy to Expert",
+            "link": "https://www.youtube.com/watch?v=aOeW8jDBDXE",
+            "thumbnail": "https://i.ytimg.com/vi/aOeW8jDBDXE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3lQRY29RLry0J12Q4p-Mzyjwv8qSQ",
+            "channel": "Fitwaffle Kitchen",
+            "duration": "9:44",
+            "platform": "YouTube",
+            "date": "1 month ago"
+        },
+        {
+            "position": 3,
+            "title": "The BEST Chocolate Chip Cookies (Classic Chocolate Chip ...",
+            "link": "https://www.youtube.com/watch?v=BWB48dGx_bE",
+            "thumbnail": "https://i.ytimg.com/vi/BWB48dGx_bE/mqdefault.jpg?sqp=-oaymwEFCJQBEFM&rs=AMzJL3muS47jnZbowIDTc89CLvkKReMOIQ",
+            "channel": "My Bake Escape",
+            "duration": "10:08",
+            "platform": "YouTube",
+            "date": "1 month ago"
+        }
+    ],
+    "immersive_products": [
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e517adce753b77bff8a8036fbc65006b4c.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e56b9352953ffd7c457032ed358b0c036a39f50c2fd60d9d79.png",
+            "source": "Amazon",
+            "title": "Nestle Toll House Semi Sweet Chocolate Chips",
+            "rating": 4.8,
+            "reviews": 22000,
+            "price": "$5.29",
+            "extracted_price": 5.29,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NTIxNzA5MDcyMDQ2NjY4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTc5Njc5NDI5MjEwNzkwNTAiLCJpbWFnZURvY2lkIjoiMTQwNjIwMDcyMDUyNTAyMzU4MTciLCJyZHMiOiJQQ18yMDIyNDgzODc3MjMzNjYyNzk1fFBST0RfUENfMjAyMjQ4Mzg3NzIzMzY2Mjc5NSIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1NTIxNzA5MDcyMDQ2NjY4ODkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjExMTc5Njc5NDI5MjEwNzkwNTAiLCJpbWFnZURvY2lkIjoiMTQwNjIwMDcyMDUyNTAyMzU4MTciLCJyZHMiOiJQQ18yMDIyNDgzODc3MjMzNjYyNzk1fFBST0RfUENfMjAyMjQ4Mzg3NzIzMzY2Mjc5NSIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e56b31ed10779299c2c3eb25dca6f83378.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e5e47431d326c0266e600264b3ec694b74fe7e3970088b0ac4.png",
+            "source": "ChocZero",
+            "title": "ChocZero Chocolate Baking Chips Sugar Free",
+            "rating": 4.8,
+            "reviews": 8400,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "delivery": "Free $35+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2MTM1ODI3MTYxOTQ0NDc2ODQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTEzMDE1OTg2MzAyMzAzOTY0IiwiaW1hZ2VEb2NpZCI6IjE0MTI5NjAyNzY0MDA3MjAwODc3IiwicmRzIjoiUENfNzU3NDg0NzQyMzA0NDcwNjQ4NnxQUk9EX1BDXzc1NzQ4NDc0MjMwNDQ3MDY0ODYiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTI2MTM1ODI3MTYxOTQ0NDc2ODQiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEzOTEzMDE1OTg2MzAyMzAzOTY0IiwiaW1hZ2VEb2NpZCI6IjE0MTI5NjAyNzY0MDA3MjAwODc3IiwicmRzIjoiUENfNzU3NDg0NzQyMzA0NDcwNjQ4NnxQUk9EX1BDXzc1NzQ4NDc0MjMwNDQ3MDY0ODYiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e548761a76498954f261bbf5a4bd1930fb.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e5c44651bc1439eba8be76e80ad6a74fc93f3d4d919b7822b0.png",
+            "source": "Pure Pie - City Docklands",
+            "title": "GIANT CHOC CHIP SEA SALT 6PK",
+            "price": "$19.29",
+            "extracted_price": 19.29,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiMTcwNjM0NDI2NDgyMTU2NjcyOTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MDYzNDQyNjQ4MjE1NjY3MjkzIiwiaW1hZ2VEb2NpZCI6IjE3NTA2NjA1ODk0NDEyOTY1ODAiLCJyZHMiOiIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiMTcwNjM0NDI2NDgyMTU2NjcyOTMiLCJjYXRhbG9naWQiOiIiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjE3MDYzNDQyNjQ4MjE1NjY3MjkzIiwiaW1hZ2VEb2NpZCI6IjE3NTA2NjA1ODk0NDEyOTY1ODAiLCJyZHMiOiIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e578af17a81622e1fea909020fca4a232a.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e5aa5521c6da5eb25dcf9c0782fe0d12c36d4ef9854fe69821.png",
+            "source": "Target",
+            "title": "Chips Ahoy! Original Chocolate Chip Cookies",
+            "rating": 4.5,
+            "reviews": 13000,
+            "price": "$4.69",
+            "extracted_price": 4.69,
+            "delivery": "Free $35+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE3MjQzMTI5MTgzMjkyNDAxMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzMzMjQ4NDYxOTIxOTAxODUwOSIsImltYWdlRG9jaWQiOiIxMzU2NDk1NTk3NzE0MDczMTI3IiwicmRzIjoiUENfMTA1NDk3MzMwNjg2NTcxNTA2OTN8UFJPRF9QQ18xMDU0OTczMzA2ODY1NzE1MDY5MyIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTE3MjQzMTI5MTgzMjkyNDAxMCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMzMzMjQ4NDYxOTIxOTAxODUwOSIsImltYWdlRG9jaWQiOiIxMzU2NDk1NTk3NzE0MDczMTI3IiwicmRzIjoiUENfMTA1NDk3MzMwNjg2NTcxNTA2OTN8UFJPRF9QQ18xMDU0OTczMzA2ODY1NzE1MDY5MyIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e5cc2cf51675078dd25aaf1b60e0e517c0.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e54e985932cee80cc64788e5db9437836f94034017bf733a57.png",
+            "source": "Walmart",
+            "title": "Enjoy Life Mini Chips Semi-Sweet Chocolate",
+            "rating": 4.8,
+            "reviews": 1800,
+            "price": "$5.92",
+            "extracted_price": 5.92,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1OTIwOTU4NTU5NzM3MDQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTAyMjczNTMyMDI0MDgzNDE5NSIsImltYWdlRG9jaWQiOiI2NjYyNTg5NDcyMjA4MTI0MjMwIiwicmRzIjoiUENfMTIwMDM1NTY5MDA2NDg0MTQ1NDd8UFJPRF9QQ18xMjAwMzU1NjkwMDY0ODQxNDU0NyIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTE1OTIwOTU4NTU5NzM3MDQ3IiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiIxMTAyMjczNTMyMDI0MDgzNDE5NSIsImltYWdlRG9jaWQiOiI2NjYyNTg5NDcyMjA4MTI0MjMwIiwicmRzIjoiUENfMTIwMDM1NTY5MDA2NDg0MTQ1NDd8UFJPRF9QQ18xMjAwMzU1NjkwMDY0ODQxNDU0NyIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e539a9818c6a9e9d92a9113fc56af74af2.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e5593201c10248f3751bda602ff252a9cf24f1358220c81721.png",
+            "source": "Amazon",
+            "title": "Guittard Extra Dark Chocolate Baking Chips",
+            "rating": 4.7,
+            "reviews": 120,
+            "price": "$5.89",
+            "extracted_price": 5.89,
+            "original_price": "$7",
+            "extracted_original_price": 7,
+            "extensions": [
+                "15% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAyMzA4ODQ4NjMwMjM4MzM0NDAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI3MjA4NzE3MTcwNTM2OTY1NzMiLCJpbWFnZURvY2lkIjoiMTUyOTMzMTYzNDg5MDg5MjI0MDgiLCJyZHMiOiJQQ180NjU3OTkyOTUxNDk2NDAxODE0fFBST0RfUENfNDY1Nzk5Mjk1MTQ5NjQwMTgxNCIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTAyMzA4ODQ4NjMwMjM4MzM0NDAiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjI3MjA4NzE3MTcwNTM2OTY1NzMiLCJpbWFnZURvY2lkIjoiMTUyOTMzMTYzNDg5MDg5MjI0MDgiLCJyZHMiOiJQQ180NjU3OTkyOTUxNDk2NDAxODE0fFBST0RfUENfNDY1Nzk5Mjk1MTQ5NjQwMTgxNCIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e55b7617c66851f84f508ad6a8b458240a.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e51238dcb37ca676201b87c5b0d87519e7c37f9f2e1c01ac0e.png",
+            "source": "Smart & Final",
+            "title": "Nestle Toll House Chocolate Chip Cookie Dough",
+            "rating": 4.6,
+            "reviews": 8600,
+            "price": "$4.49",
+            "extracted_price": 4.49,
+            "delivery": "Free delivery",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODk1NTUyMjQzODQ1ODI1MDk4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwOTUwMjAwNDc3MzgyNjI4NjkiLCJpbWFnZURvY2lkIjoiMTQwMTEyMzg2MjY5Mjg5ODQzMDAiLCJyZHMiOiJQQ18xNzYwNTQ3NjIyMTY0OTAzNTk4OXxQUk9EX1BDXzE3NjA1NDc2MjIxNjQ5MDM1OTg5IiwicXVlcnkiOiJjaG9jK2NoaXAifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiODk1NTUyMjQzODQ1ODI1MDk4MiIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwOTUwMjAwNDc3MzgyNjI4NjkiLCJpbWFnZURvY2lkIjoiMTQwMTEyMzg2MjY5Mjg5ODQzMDAiLCJyZHMiOiJQQ18xNzYwNTQ3NjIyMTY0OTAzNTk4OXxQUk9EX1BDXzE3NjA1NDc2MjIxNjQ5MDM1OTg5IiwicXVlcnkiOiJjaG9jK2NoaXAifQ%3D%3D"
+        },
+        {
+            "category": "Popular products",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e540d6a6c8138211fee400f57dcc384dbf.webp",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/cb97cf0b11f17da8fa78e6b6b8df61e52aa786f0b02502cc47c466de28499b463d3ee3b11c637a6c.png",
+            "source": "Shop.Hersheys.com",
+            "title": "Hershey's Semi Sweet Chocolate Chips",
+            "rating": 4.8,
+            "reviews": 1500,
+            "price": "$3.99",
+            "extracted_price": 3.99,
+            "delivery": "Free $60+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzc5MjY4NTgxODY4ODE5MTQ2NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjY4NDI3MjM4MTQwOTAwMjc3NSIsImltYWdlRG9jaWQiOiIxMTc2NDU3NTE2OTA0OTE1MzkxMCIsInJkcyI6IlBDXzExNzkyNjExMTM3Mzc4NTQ2NzQyfFBST0RfUENfMTE3OTI2MTExMzczNzg1NDY3NDIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNzc5MjY4NTgxODY4ODE5MTQ2NSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNjY4NDI3MjM4MTQwOTAwMjc3NSIsImltYWdlRG9jaWQiOiIxMTc2NDU3NTE2OTA0OTE1MzkxMCIsInJkcyI6IlBDXzExNzkyNjExMTM3Mzc4NTQ2NzQyfFBST0RfUENfMTE3OTI2MTExMzczNzg1NDY3NDIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTOzet5wpFsIAb182umprE54L6ndhvXhf3SH_g4Gpv2M0q374paWrnoY5Ce6NC7zA0yBM5ynYaLgZIwGxndR3K_7S1gVxlm-CCFOfbNWRybIk9MCgzaJbUc",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+            "source": "Target",
+            "title": "Ghirardelli Baking Milk Chocolate Chips",
+            "rating": 4.8,
+            "reviews": 914,
+            "price": "$5.99",
+            "extracted_price": 5.99,
+            "delivery": "Free $35+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NTc1MDE2OTk3NTkxNTk2NTkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY4ODI0MTE5MjY3MzMwNTczMTMiLCJpbWFnZURvY2lkIjoiMTI1NTEzNTM4MjAyOTk4Njc3NyIsInJkcyI6IlBDXzE3NTQ0MTg1MTUxMjEzOTI2ODg5fFBST0RfUENfMTc1NDQxODUxNTEyMTM5MjY4ODkiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTU0NTc1MDE2OTk3NTkxNTk2NTkiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjY4ODI0MTE5MjY3MzMwNTczMTMiLCJpbWFnZURvY2lkIjoiMTI1NTEzNTM4MjAyOTk4Njc3NyIsInJkcyI6IlBDXzE3NTQ0MTg1MTUxMjEzOTI2ODg5fFBST0RfUENfMTc1NDQxODUxNTEyMTM5MjY4ODkiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTs_sakoTD1f8tMWTjswmt7aPTg_-VDiVOQAyFLB1Mj7dtfYxRugqZbA-YDVPcA7N4ZVB8PcNT2jdImjfOvTXEufo4e-zB5Gr4DfYm4REx7t_gy2z3zwsfm",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRXU7phxmhZaWjldEQVk5zh6C6kOPgzMsaVCAknIrwQTAlKiQ8BptdTyH9ufYmtsGIQbUlMrEFCz2Y6XOKVHWrSE0dXXP-vzbSyPeGa",
+            "source": "FreshDirect",
+            "title": "Ghirardelli Premium Baking Chips Semi-Sweet Chocolate",
+            "rating": 4.6,
+            "reviews": 842,
+            "price": "$5.79",
+            "extracted_price": 5.79,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc4MTk0NDU5NTcyMzQ3NDgwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NzAwNDkyODU4NzUxODMzMjU4IiwiaW1hZ2VEb2NpZCI6IjcxNzEwMTQ2MTEwNDU2MzQ2OTciLCJyZHMiOiJQQ182OTgyODg4MDk0OTcxNjc4NDUxfFBST0RfUENfNjk4Mjg4ODA5NDk3MTY3ODQ1MSIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTc4MTk0NDU5NTcyMzQ3NDgwIiwidmMiOiIiLCJ2c2MiOiIiLCJoZWFkbGluZU9mZmVyRG9jaWQiOiI2NzAwNDkyODU4NzUxODMzMjU4IiwiaW1hZ2VEb2NpZCI6IjcxNzEwMTQ2MTEwNDU2MzQ2OTciLCJyZHMiOiJQQ182OTgyODg4MDk0OTcxNjc4NDUxfFBST0RfUENfNjk4Mjg4ODA5NDk3MTY3ODQ1MSIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR4jolZDxXxRtaEyeRNV2U1gxItSgwSOUSzaORHig-pOYS_hgUWGvKnMBsm60lGk-uJXIw_jjlbCMbUD8rPlFiO_32bJ6en12W5K7fYPVfxjGQSQCbJJUVb",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQpgfL0avcSnIIA7Wnlomi5kymZiO0A2kINnMkGZ3G1FlJRmOOARrbdPOOdSZARVbApsdeCP7QiIe5WxnPSOaIbtM4r",
+            "source": "Amazon",
+            "title": "Guittard Semisweet Chocolate Baking Chips",
+            "rating": 4.8,
+            "reviews": 178,
+            "price": "$5.89",
+            "extracted_price": 5.89,
+            "original_price": "$7",
+            "extracted_original_price": 7,
+            "extensions": [
+                "15% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MTYyODg2MTQxMTgzNTMyMDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODI5NDMxMzE4OTM5MzY3MTUiLCJpbWFnZURvY2lkIjoiMjk2ODIzMzI3Njc0ODU2NDk2NiIsInJkcyI6IlBDXzEwNDAzNzE5NzEwODM2NzUxNzgxfFBST0RfUENfMTA0MDM3MTk3MTA4MzY3NTE3ODEiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTY0MTYyODg2MTQxMTgzNTMyMDEiLCJ2YyI6IiIsInZzYyI6IiIsImhlYWRsaW5lT2ZmZXJEb2NpZCI6IjEyODI5NDMxMzE4OTM5MzY3MTUiLCJpbWFnZURvY2lkIjoiMjk2ODIzMzI3Njc0ODU2NDk2NiIsInJkcyI6IlBDXzEwNDAzNzE5NzEwODM2NzUxNzgxfFBST0RfUENfMTA0MDM3MTk3MTA4MzY3NTE3ODEiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRNRTEZbfBVeQESbd5R_IDxP3Fr2cM25RR_61NG4MniqOuypKMQgYa4o2v7IF_Z5qVVQxTWxIniIJp-Uezag3I8w889lKT2z17F9TqsEgzkr3pVMQrxZ64d3w",
+            "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTMSBXxEDM5sv1DmFbvyhsLkkHTUZzhJ3srjaU8HDaACHIy4W_Yyevlp2QtlC5N76mkKE_POt5npzKIEA8G0XajEC3MFUDsM3U",
+            "source": "Lucy's Market",
+            "title": "6 Chocolate Chip Cookies",
+            "price": "$12.00",
+            "extracted_price": 12.0,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgzMzAyMTgwMzk1MzQ1MTIzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxMTcwNzcxNzg0MDQ3NjM1NjYiLCJpbWFnZURvY2lkIjoiMTI5MzM3ODMxMzQ4MzMyNDI0MTkiLCJyZHMiOiIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiOTgzMzAyMTgwMzk1MzQ1MTIzNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTIxMTcwNzcxNzg0MDQ3NjM1NjYiLCJpbWFnZURvY2lkIjoiMTI5MzM3ODMxMzQ4MzMyNDI0MTkiLCJyZHMiOiIiLCJxdWVyeSI6ImNob2MrY2hpcCJ9"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRXhbsbeILLMkW8CLh3E4JbBkdffoyjPD8xJ25yt9oFIAtTTG728mmDWnJdfpcMkxxfa4LPt2zbGdvLjSoNu1r7VcrcPHFoGXXLMIJBhLA4zuOVCNEkhbt2Kg",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRto0IsNFzQDZdV19e0-GPz_iHlJjv3S6xL7-RSHAXhVNUtqG5u9cgct9bLJD0hE_2L3BSY3Xg3O43MosxClS3bptNneVzdlIBt_qajNv8B8CiU",
+            "source": "King Arthur Baking",
+            "title": "Guittard 72% Dark Chocolate Baking Chips",
+            "rating": 4.5,
+            "reviews": 93,
+            "price": "$10.95",
+            "extracted_price": 10.95,
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyMTc3MDg4NjA0ODkzODk1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwODgyMDQwNTIwNzgxNDM4NDYiLCJpbWFnZURvY2lkIjoiMTMyODM0MTE5NzAyMDkzNTY1MDAiLCJyZHMiOiJQQ18xMDY5MzI1MTQyMTY0OTM0ODE0MHxQUk9EX1BDXzEwNjkzMjUxNDIxNjQ5MzQ4MTQwIiwicXVlcnkiOiJjaG9jK2NoaXAifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMjEyMTc3MDg4NjA0ODkzODk1MSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTcwODgyMDQwNTIwNzgxNDM4NDYiLCJpbWFnZURvY2lkIjoiMTMyODM0MTE5NzAyMDkzNTY1MDAiLCJyZHMiOiJQQ18xMDY5MzI1MTQyMTY0OTM0ODE0MHxQUk9EX1BDXzEwNjkzMjUxNDIxNjQ5MzQ4MTQwIiwicXVlcnkiOiJjaG9jK2NoaXAifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSpGiVtcmJ1Ck4Z8pfB-Mnl4VShxy0uwlCsvaQZnX1v-BN2db78h0LnBmddtBLC1xc4tmJ0_WfvPv_MSVsdFtOSp6xCWBtj1Tu8VfrXUWXwJfE120219D9U",
+            "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+            "source": "Target",
+            "title": "Ghirardelli 72% Cacao Dark Chocolate Premium Baking Chips",
+            "rating": 4.6,
+            "reviews": 70,
+            "price": "$8.19",
+            "extracted_price": 8.19,
+            "delivery": "Free $35+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTc2MDgyODM5NzkwMjc2NzQwNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxMDM1OTkyMzQzODc2Nzg0NTAiLCJpbWFnZURvY2lkIjoiNzU2OTM1Mjc0NDE2ODk3NjExMiIsInJkcyI6IlBDXzQ0MzU0MjI2NTgwOTQzODgwNjF8UFJPRF9QQ180NDM1NDIyNjU4MDk0Mzg4MDYxIiwicXVlcnkiOiJjaG9jK2NoaXAifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTc2MDgyODM5NzkwMjc2NzQwNyIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTQxMDM1OTkyMzQzODc2Nzg0NTAiLCJpbWFnZURvY2lkIjoiNzU2OTM1Mjc0NDE2ODk3NjExMiIsInJkcyI6IlBDXzQ0MzU0MjI2NTgwOTQzODgwNjF8UFJPRF9QQ180NDM1NDIyNjU4MDk0Mzg4MDYxIiwicXVlcnkiOiJjaG9jK2NoaXAifQ%3D%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSuD-JisJ_jy32GhRLZv0czrLiGJgWK2e58NN_SkkpHhLvD6Y0BtvackoJOxVIL3i9WoBxQXjGIGxydEo8htbdFzrPPSlHEMCOBazz9KNGjkXfMuoVlDKUkFA",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTMEI8cEbI9AjWoM7ly-yNEEZEHGbpxer0rXvEHDxYhebv54cWUzj4TJR-haDk8YhhnoMLiNzXliTivXMqCuiPeZu9DqKlPMFSWEQ",
+            "source": "Shop.Hersheys.com",
+            "title": "Hershey's Milk Chocolate Baking Chips",
+            "rating": 4.8,
+            "reviews": 1900,
+            "price": "$3.99",
+            "extracted_price": 3.99,
+            "delivery": "Free $60+",
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg3NDM4ODAwNzI5OTgyMTM3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzk3MzMwMzA3NDM0MDAyNTU1NyIsImltYWdlRG9jaWQiOiI2MTAwMDU4ODc5ODc0NjMzNjcyIiwicmRzIjoiUENfMTE0MDc4OTgwNTk2NTQ5MDkxNTh8UFJPRF9QQ18xMTQwNzg5ODA1OTY1NDkwOTE1OCIsInF1ZXJ5IjoiY2hvYytjaGlwIn0=",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiMTg3NDM4ODAwNzI5OTgyMTM3OCIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiNzk3MzMwMzA3NDM0MDAyNTU1NyIsImltYWdlRG9jaWQiOiI2MTAwMDU4ODc5ODc0NjMzNjcyIiwicmRzIjoiUENfMTE0MDc4OTgwNTk2NTQ5MDkxNTh8UFJPRF9QQ18xMTQwNzg5ODA1OTY1NDkwOTE1OCIsInF1ZXJ5IjoiY2hvYytjaGlwIn0%3D"
+        },
+        {
+            "category": "More products",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQDcABAi-GgAfAD_HuaO9pQLHTdqtpNmf7B_YAU8pcrssVShQidwnYXnCo3kObWmlBmcr11daoicH0Twe0Hz_YIdfn1hR6S2saKcsFgk3lNWFuUZxjsM9pYXA",
+            "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT0TsMMuS8IRIUU_Envbo02npaZ6DJgbXTwa-h2DSMswBydNyxi_1NukUkPuQPc8-6EH8dopTDEyU5ccMeLEvcSrbCBtAW3",
+            "source": "Amazon.com",
+            "title": "Chocolate Chip Cookies Tate's Bake Shop",
+            "rating": 4.6,
+            "reviews": 2100,
+            "price": "$4.99",
+            "extracted_price": 4.99,
+            "original_price": "$5",
+            "extracted_original_price": 5,
+            "extensions": [
+                "5% OFF"
+            ],
+            "immersive_product_page_token": "eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQ5OTQyMzM3NDQ4NDI4MzE2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY5ODIwNzI3MDA4MTI0MjA0NDUiLCJpbWFnZURvY2lkIjoiMTY3NjYyODYwMzE3NDE2MDgzNDciLCJyZHMiOiJQQ18xNzczODY1NDUxMzMyMzUxMjQzMHxQUk9EX1BDXzE3NzM4NjU0NTEzMzIzNTEyNDMwIiwicXVlcnkiOiJjaG9jK2NoaXAifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eyJlaSI6IkF3ZFNaNk9rS0syWXdia1B2NmlBdVFnIiwicHJvZHVjdGlkIjoiIiwiY2F0YWxvZ2lkIjoiNTQ5OTQyMzM3NDQ4NDI4MzE2OSIsInZjIjoiIiwidnNjIjoiIiwiaGVhZGxpbmVPZmZlckRvY2lkIjoiMTY5ODIwNzI3MDA4MTI0MjA0NDUiLCJpbWFnZURvY2lkIjoiMTY3NjYyODYwMzE3NDE2MDgzNDciLCJyZHMiOiJQQ18xNzczODY1NDUxMzMyMzUxMjQzMHxQUk9EX1BDXzE3NzM4NjU0NTEzMzIzNTEyNDMwIiwicXVlcnkiOiJjaG9jK2NoaXAifQ%3D%3D"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Is chocolate chip two words?",
+            "snippet": "Where does the noun chocolate chip come from? The earliest known use of the noun chocolate chip is in the 1870s. OED's earliest evidence for chocolate chip is from 1877, in Oakland (California) Daily Evening Tribune. chocolate chip is formed within English, by compounding.",
+            "title": "chocolate chip, n. meanings, etymology and more",
+            "link": "https://www.oed.com/dictionary/chocolate-chip_n#:~:text=Where%20does%20the%20noun%20chocolate%20chip%20come%20from%3F&text=The%20earliest%20known%20use%20of,formed%20within%20English%2C%20by%20compounding.",
+            "displayed_link": "https://www.oed.com \u203a dictionary \u203a chocolate-chip_n",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/fb37369b5bdd6002a3910379071dae7cbf20ba7e8060f43a41ab86f048d5556f.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiSXMgY2hvY29sYXRlIGNoaXAgdHdvIHdvcmRzPyIsImxrIjoiR2h0cGN5QmphRzlqYjJ4aGRHVWdZMmhwY0NCMGQyOGdkMjl5WkhNIiwiYnMiOiJjLU55NEpMeExGWkl6c2hQenM5SkxFa0ZzaklMRkVySzh4WEs4NHRTaXUwbHBwZ2F5VXBKWi1KV3dsWEFaUk9la1ZpaUFGUlRrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcDVDbzRKVllsZ2pSbDVpWEF1UTdnd3dEQzloTEhHY3gwcFhTeHFJdEMwVlRNbHdMbHh1WFBNeEdORmZsSnFha0t1U24yVXZjWlRGU2tKSXJ4NnVLSzRKTEE5bmxTYW5GSlJqZXpGZklUYzBwc1plWUkyU2tLYVZlVHB4eUFVWUEiLCJpZCI6ImZjX0F3ZFNaNk9rS0syWXdia1B2NmlBdVFnXzYifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiSXMgY2hvY29sYXRlIGNoaXAgdHdvIHdvcmRzPyIsImxrIjoiR2h0cGN5QmphRzlqYjJ4aGRHVWdZMmhwY0NCMGQyOGdkMjl5WkhNIiwiYnMiOiJjLU55NEpMeExGWkl6c2hQenM5SkxFa0ZzaklMRkVySzh4WEs4NHRTaXUwbHBwZ2F5VXBKWi1KV3dsWEFaUk9la1ZpaUFGUlRrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcDVDbzRKVllsZ2pSbDVpWEF1UTdnd3dEQzloTEhHY3gwcFhTeHFJdEMwVlRNbHdMbHh1WFBNeEdORmZsSnFha0t1U24yVXZjWlRGU2tKSXJ4NnVLSzRKTEE5bmxTYW5GSlJqZXpGZklUYzBwc1plWUkyU2tLYVZlVHB4eUFVWUEiLCJpZCI6ImZjX0F3ZFNaNk9rS0syWXdia1B2NmlBdVFnXzYifQ%3D%3D"
+        },
+        {
+            "question": "What is the difference between a Java chip and a Choco chip?",
+            "snippet": "Java chips are chocolate chips, but they are primarily added to blended drinks because they're easier to melt and blend than regular chocolate chips. They don't contain as much cocoa as regular chocolate chips. That is the main difference really - java chips has less cocoa content.",
+            "title": "What is difference between Java chips and chocolate chips? : r/TooAfraidToAsk",
+            "date": "Jan 5, 2023",
+            "link": "https://www.reddit.com/r/TooAfraidToAsk/comments/103m9vl/what_is_difference_between_java_chips_and/",
+            "displayed_link": "https://www.reddit.com \u203a TooAfraidToAsk \u203a comments",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/fb37369b5bdd6002a3910379071dae7c80cde7ab0df219d87f84f3badd3a6a23.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgSmF2YSBjaGlwIGFuZCBhIENob2NvIGNoaXA/IiwibGsiOiJjNVBTVHNsTVMwc3RTczFMVGxWSVNpMHBUMDNOVThoS0xFdFVTTTdJTEZCSXpFc0JNdktUODhGY0FBIiwiYnMiOiJjLU55NEpMeExGWkl6c2hQenM5SkxFa0ZzaklMRkVySzh4WEs4NHRTaXUwbHBwZ2F5VXBKWi1KV3dsWEFaUk9la1ZpaUFGUlRrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcDVDbzRKVllsZ2pSbDVpWEF1UTdnd3dEQzloTEhHY3gwcFhTeHFJdEMwVlRNbHdMbHh1WFBNeEdORmZsSnFha0t1U24yVXZjWlRGU2tKSXJ4NnVLSzRKTEE5bmxTYW5GSlJqZXpGZklUYzBwc1plWUkyU2tLYVZlVHB4eUFVWUEiLCJpZCI6ImZjX0F3ZFNaNk9rS0syWXdia1B2NmlBdVFnXzYifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgZGlmZmVyZW5jZSBiZXR3ZWVuIGEgSmF2YSBjaGlwIGFuZCBhIENob2NvIGNoaXA%2FIiwibGsiOiJjNVBTVHNsTVMwc3RTczFMVGxWSVNpMHBUMDNOVThoS0xFdFVTTTdJTEZCSXpFc0JNdktUODhGY0FBIiwiYnMiOiJjLU55NEpMeExGWkl6c2hQenM5SkxFa0ZzaklMRkVySzh4WEs4NHRTaXUwbHBwZ2F5VXBKWi1KV3dsWEFaUk9la1ZpaUFGUlRrcEdxa0pLWmxwWmFsSnFYbktxUWxGcFNucHFhcDVDbzRKVllsZ2pSbDVpWEF1UTdnd3dEQzloTEhHY3gwcFhTeHFJdEMwVlRNbHdMbHh1WFBNeEdORmZsSnFha0t1U24yVXZjWlRGU2tKSXJ4NnVLSzRKTEE5bmxTYW5GSlJqZXpGZklUYzBwc1plWUkyU2tLYVZlVHB4eUFVWUEiLCJpZCI6ImZjX0F3ZFNaNk9rS0syWXdia1B2NmlBdVFnXzYifQ%3D%3D"
+        },
+        {
+            "question": "What is chocolate chip made of?",
+            "snippet": "Just cane sugar, cacao beans, cocoa butter, vanilla, and sunflower lecithin\u2014yes, Guittard still includes those preservatives that help the chip keep its shape.",
+            "title": "A Taste Test for the Best Chocolate Chips - Bon Appetit",
+            "date": "Mar 6, 2024",
+            "link": "https://www.bonappetit.com/story/best-chocolate-chips#:~:text=Just%20cane%20sugar%2C%20cacao%20beans,the%20chip%20keep%20its%20shape.",
+            "displayed_link": "https://www.bonappetit.com \u203a story \u203a best-chocolate-chips",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTagtKIGsMOg10wDPEPzmG1r7il5hc4iFHvjyhEYznN&s",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/fb37369b5bdd6002a3910379071dae7c3cdcad886dd07e17e62fe85b9ed22374.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjaG9jb2xhdGUgY2hpcCBtYWRlIG9mPyIsImxrIjoiR2g1M2FHRjBJR2x6SUdOb2IyTnZiR0YwWlNCamFHbHdJRzFoWkdVZ2IyWSIsImJzIjoiYy1OeTRKTHhMRlpJenNoUHpzOUpMRWtGc2pJTEZFcks4eFhLODR0U2l1MGxwcGdheVVwSlotSld3bFhBWlJPZWtWaWlBRlJUa3BHcWtKS1pscFphbEpxWG5LcVFsRnBTbnBxYXA1Q280SlZZbGdqUmw1aVhBdVE3Z3d3REM5aExIR2N4MHBYU3hxSXRDMFZUTWx3TGx4dVhQTXhHTkZmbEpxYWtLdVNuMlV2Y1pURlNrSklyeDZ1S0s0SkxBOW5sU2FuRkpSamV6RmZJVGMwcHNaZVlJMlNrS2FWZVRweHlBVVlBIiwiaWQiOiJmY19Bd2RTWjZPa0tLMll3YmtQdjZpQXVRZ182In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBjaG9jb2xhdGUgY2hpcCBtYWRlIG9mPyIsImxrIjoiR2g1M2FHRjBJR2x6SUdOb2IyTnZiR0YwWlNCamFHbHdJRzFoWkdVZ2IyWSIsImJzIjoiYy1OeTRKTHhMRlpJenNoUHpzOUpMRWtGc2pJTEZFcks4eFhLODR0U2l1MGxwcGdheVVwSlotSld3bFhBWlJPZWtWaWlBRlJUa3BHcWtKS1pscFphbEpxWG5LcVFsRnBTbnBxYXA1Q280SlZZbGdqUmw1aVhBdVE3Z3d3REM5aExIR2N4MHBYU3hxSXRDMFZUTWx3TGx4dVhQTXhHTkZmbEpxYWtLdVNuMlV2Y1pURlNrSklyeDZ1S0s0SkxBOW5sU2FuRkpSamV6RmZJVGMwcHNaZVlJMlNrS2FWZVRweHlBVVlBIiwiaWQiOiJmY19Bd2RTWjZPa0tLMll3YmtQdjZpQXVRZ182In0%3D"
+        },
+        {
+            "question": "What is the best chocolate chip to melt?",
+            "snippet": "The chocolate you use is really important. Not all brands of chocolate chips melt well. Ghirardelli or Guittard bittersweet or semisweet chips are my go-to.",
+            "title": "Perfect Chocolate Fondue | Mel's Kitchen Cafe",
+            "date": "Feb 4, 2016",
+            "link": "https://www.melskitchencafe.com/perfect-chocolate-fondue/",
+            "displayed_link": "https://www.melskitchencafe.com \u203a perfect-chocolate-fo...",
+            "source_logo": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/fb37369b5bdd6002a3910379071dae7cf8c5cb542b08befc83544052c44c9bc0.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBjaG9jb2xhdGUgY2hpcCB0byBtZWx0PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUdOb2IyTnZiR0YwWlNCamFHbHdJSFJ2SUcxbGJIUSIsImJzIjoiYy1OeTRKTHhMRlpJenNoUHpzOUpMRWtGc2pJTEZFcks4eFhLODR0U2l1MGxwcGdheVVwSlotSld3bFhBWlJPZWtWaWlBRlJUa3BHcWtKS1pscFphbEpxWG5LcVFsRnBTbnBxYXA1Q280SlZZbGdqUmw1aVhBdVE3Z3d3REM5aExIR2N4MHBYU3hxSXRDMFZUTWx3TGx4dVhQTXhHTkZmbEpxYWtLdVNuMlV2Y1pURlNrSklyeDZ1S0s0SkxBOW5sU2FuRkpSamV6RmZJVGMwcHNaZVlJMlNrS2FWZVRweHlBVVlBIiwiaWQiOiJmY19Bd2RTWjZPa0tLMll3YmtQdjZpQXVRZ182In0=",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTa2M1U210UWRYQkJlbXB4TlZwWlUzVTBhVWhpYUVRME5sOHRkREp3U210eFprWklVMFE0WDFwTmNXdHFNVFZOVVRsV01FZ3djemt0TVZOSGIxRnRia2xPYjJaMlpVbzRNRTlTUTBsdVlXSnZVRWRhYVhwMVJFOU9TbkE0VkVWR1VSSVhRWGRrVTFvMlQydExTekpaZDJKclVIWTJhVUYxVVdjYUlrRkdXSEpGWTNJeGVYcDJRamhpYlZOcWMyMDRhRWN3WHpkR1puQk1NSGhEUVVFIiwiZmN2IjoiMyIsImVpIjoiQXdkU1o2T2tLSzJZd2JrUHY2aUF1UWciLCJxYyI6IkNnbGphRzlqSUdOb2FYQVFBSDNMVWhrXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBjaG9jb2xhdGUgY2hpcCB0byBtZWx0PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUdOb2IyTnZiR0YwWlNCamFHbHdJSFJ2SUcxbGJIUSIsImJzIjoiYy1OeTRKTHhMRlpJenNoUHpzOUpMRWtGc2pJTEZFcks4eFhLODR0U2l1MGxwcGdheVVwSlotSld3bFhBWlJPZWtWaWlBRlJUa3BHcWtKS1pscFphbEpxWG5LcVFsRnBTbnBxYXA1Q280SlZZbGdqUmw1aVhBdVE3Z3d3REM5aExIR2N4MHBYU3hxSXRDMFZUTWx3TGx4dVhQTXhHTkZmbEpxYWtLdVNuMlV2Y1pURlNrSklyeDZ1S0s0SkxBOW5sU2FuRkpSamV6RmZJVGMwcHNaZVlJMlNrS2FWZVRweHlBVVlBIiwiaWQiOiJmY19Bd2RTWjZPa0tLMll3YmtQdjZpQXVRZ182In0%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Best Chocolate Chip Cookies (Popular Recipe!)",
+            "link": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECEAQAQ",
+            "displayed_link": "https://sallysbakingaddiction.com \u203a Recipes \u203a Cookies",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d681288a8baafa9ef99a5b048cde6deb2e0.jpeg",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d681679309354a03413b6107f2147bcd2e7.png",
+            "date": "May 13, 2022",
+            "snippet": "These ultra soft and chewy chocolate chip cookies have readers raving about the recipe. And the best part is you don't even need a mixer!",
+            "snippet_highlighted_words": [
+                "chocolate chip"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.7,
+                        "reviews": 1332,
+                        "hr_min": 3
+                    },
+                    "extensions": [
+                        "Rating: 4.7",
+                        "1,332 reviews",
+                        "3 hr 22 min"
+                    ]
+                }
+            },
+            "source": "Sally's Baking Addiction"
+        },
+        {
+            "position": 2,
+            "title": "The Best Chocolate Chip Cookie Recipe Ever",
+            "link": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECGkQAQ",
+            "displayed_link": "https://joyfoodsunshine.com \u203a the-most-amazing-choco...",
+            "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d686b6f590dedf3a3e865d8e298cc9600d9.jpeg",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d687cf68289447b53cc328db04e568ef8f9.png",
+            "date": "Feb 11, 2018",
+            "snippet": "This is the best chocolate chip cookies recipe ever - buttery, slightly doughy, & so good. So easy with no weird ingredients or chilling!",
+            "snippet_highlighted_words": [
+                "chocolate chip"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 5,
+                        "votes": 11643,
+                        "min": 30
+                    },
+                    "extensions": [
+                        "Rating: 5",
+                        "11,643 votes",
+                        "30 min"
+                    ]
+                }
+            },
+            "source": "JoyFoodSunshine"
+        },
+        {
+            "position": 3,
+            "title": "Best Chocolate Chip Cookies Recipe (with Video)",
+            "link": "https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/10813/best-chocolate-chip-cookies/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECGgQAQ",
+            "displayed_link": "https://www.allrecipes.com \u203a recipe \u203a best-chocolate-chi...",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp9PNhHX19FfH41xqEl4ri6rhiC_OvMjnxPCIwHNgAjXJGCgqNo5OP&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d68472a5252e7302d7545d8bb2fb9c574f1.png",
+            "date": "Aug 20, 2024",
+            "snippet": "This chocolate chip cookie recipe makes dozens of delicious cookies with crisp edges and chewy middles loaded with chocolate chips!",
+            "snippet_highlighted_words": [
+                "chocolate chip",
+                "chocolate chips"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.6,
+                        "votes": 19164,
+                        "min": 30
+                    },
+                    "extensions": [
+                        "Rating: 4.6",
+                        "19,164 votes",
+                        "30 min"
+                    ]
+                }
+            },
+            "source": "Allrecipes"
+        },
+        {
+            "position": 4,
+            "title": "The Best Soft Chocolate Chip Cookies - Pinch of Yum",
+            "link": "https://pinchofyum.com/the-best-soft-chocolate-chip-cookies",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pinchofyum.com/the-best-soft-chocolate-chip-cookies&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECGcQAQ",
+            "displayed_link": "https://pinchofyum.com \u203a Recipes \u203a Desserts",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxsVzJmp-nXqF_fBHvPzXzfvtSg2AkOKbm-cl5_v-0Ofh7Cm8usXK&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d680a9c35fbca496434325649290ad881fb.png",
+            "snippet": "These cookies are soft, thick, bricks of chocolate chunks and buttery dough baked into a heavy, milk-loving cookie that is my most favorite chocolate chip ...",
+            "snippet_highlighted_words": [
+                "chocolate chip"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.6,
+                        "reviews": 1792,
+                        "min": 20
+                    },
+                    "extensions": [
+                        "Rating: 4.6",
+                        "1,792 reviews",
+                        "20 min"
+                    ]
+                }
+            },
+            "source": "Pinch of Yum"
+        },
+        {
+            "position": 5,
+            "title": "Best Big, Fat, Chewy Chocolate Chip Cookie Recipe",
+            "link": "https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allrecipes.com/recipe/25037/best-big-fat-chewy-chocolate-chip-cookie/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECD0QAQ",
+            "displayed_link": "https://www.allrecipes.com \u203a recipe \u203a best-big-fat-chew...",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d68e1f649e3fb6457cd0c1342f55af8c4e3.png",
+            "snippet": "Ingredients \u00b7 2 cups all-purpose flour \u00b7 \u00bd teaspoon baking soda \u00b7 \u00bd teaspoon salt \u00b7 1 cup packed brown sugar \u00b7 \u00be cup unsalted butter, melted \u00b7 \u00bd cup white sugar.",
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.6,
+                        "votes": 12552,
+                        "min": 30
+                    },
+                    "extensions": [
+                        "Rating: 4.6",
+                        "12,552 votes",
+                        "30 min"
+                    ]
+                }
+            },
+            "source": "Allrecipes"
+        },
+        {
+            "position": 6,
+            "title": "The Best Chocolate Chip Cookie Recipe",
+            "link": "https://cookiesfordays.com/chocolate-chip-cookie-recipe/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cookiesfordays.com/chocolate-chip-cookie-recipe/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECD8QAQ",
+            "displayed_link": "https://cookiesfordays.com \u203a Blog",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ohLwKCfnl46c_SMbVBnYKbmaQtCOeP0O1XlAIAx63TLbPJlV3iTa&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d683d271941440b2b7f6f0c009bfedabb5f.png",
+            "date": "Jan 10, 2024",
+            "snippet": "You're looking at the best chocolate chip cookie recipe. Perfected over a period of 6 years, the flavor and texture are spot on every time!",
+            "snippet_highlighted_words": [
+                "chocolate chip"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "votes": 325,
+                        "min": 25
+                    },
+                    "extensions": [
+                        "Rating: 4.9",
+                        "325 votes",
+                        "25 min"
+                    ]
+                }
+            },
+            "source": "Cookies for Days"
+        },
+        {
+            "position": 7,
+            "title": "Chocolate Chip Cookies Recipe",
+            "link": "https://www.loveandlemons.com/chocolate-chip-cookies/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.loveandlemons.com/chocolate-chip-cookies/&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECGYQAQ",
+            "displayed_link": "https://www.loveandlemons.com \u203a Recipes",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAegu9GQ-OvIVUQ-9naZRbgFLhIOqIppVPvTxCEkz7VWyEnJVQiJeE&usqp=CAE&s",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d68011cf705e506cf5416fe03891789b8ca.png",
+            "snippet": "These homemade cookies are soft, chewy, and packed with gooey chocolate chips. They're also easy to make. No mixer required!",
+            "snippet_highlighted_words": [
+                "chocolate chips"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.9,
+                        "votes": 84,
+                        "hr": 1
+                    },
+                    "extensions": [
+                        "Rating: 4.9",
+                        "84 votes",
+                        "1 hr"
+                    ]
+                }
+            },
+            "source": "Love and Lemons"
+        },
+        {
+            "position": 8,
+            "title": "BA's Best Chocolate Chip Cookies Recipe - Bon Appetit",
+            "link": "https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies?srsltid=AfmBOoo8FJHiRhg9Ba9qgLL4b5k8JS1BqpIVQ9Rn8w4k9fufOTANJ0jH",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bonappetit.com/recipe/bas-best-chocolate-chip-cookies%3Fsrsltid%3DAfmBOoo8FJHiRhg9Ba9qgLL4b5k8JS1BqpIVQ9Rn8w4k9fufOTANJ0jH&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQFnoECD4QAQ",
+            "displayed_link": "https://www.bonappetit.com \u203a recipe \u203a bas-best-chocola...",
+            "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/3b90bef00360cad7010b2ae7446b6d6898543cc2e985b826b7348778ca0fc7c4.png",
+            "date": "Aug 14, 2023",
+            "snippet": "This recipe for brown-butter chocolate chip cookies delivers on a promise of crispy edges, a chewy center, and plenty of chocolate chunks in ...",
+            "snippet_highlighted_words": [
+                "chocolate chip"
+            ],
+            "rich_snippet": {
+                "bottom": {
+                    "detected_extensions": {
+                        "rating": 4.5,
+                        "votes": 1415
+                    },
+                    "extensions": [
+                        "Rating: 4.5",
+                        "1,415 votes"
+                    ]
+                }
+            },
+            "source": "bonappetit.com"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "query": "Chocolate chip cookie",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Chocolate+chip+cookie&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAh5EAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chocolate+chip+cookie"
+        },
+        {
+            "block_position": 1,
+            "query": "Easy chocolate chip cookies recipe",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Easy+chocolate+chip+cookies+recipe&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhzEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Easy+chocolate+chip+cookies+recipe"
+        },
+        {
+            "block_position": 1,
+            "query": "Chocolate chip cookies recept",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Chocolate+chip+cookies+recept&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhyEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chocolate+chip+cookies+recept"
+        },
+        {
+            "block_position": 1,
+            "query": "Best chocolate chip cookies recipe",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Best+chocolate+chip+cookies+recipe&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Best+chocolate+chip+cookies+recipe"
+        },
+        {
+            "block_position": 1,
+            "query": "Chocolate chip cookie main ingredients",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Chocolate+chip+cookie+main+ingredients&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chocolate+chip+cookie+main+ingredients"
+        },
+        {
+            "block_position": 1,
+            "query": "Double chocolate chip cookies",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Double+chocolate+chip+cookies&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Double+chocolate+chip+cookies"
+        },
+        {
+            "block_position": 1,
+            "query": "Soft chocolate chip cookies",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Soft+chocolate+chip+cookies&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Soft+chocolate+chip+cookies"
+        },
+        {
+            "block_position": 1,
+            "query": "Chewy chocolate chip cookies",
+            "link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=Chewy+chocolate+chip+cookies&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ1QJ6BAhlEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Chewy+chocolate+chip+cookies"
+        }
+    ],
+    "refine_this_search": [
+        {
+            "query": "Cookies",
+            "link": "https://www.google.com/search?q=cookies+choc+chip&shoprs=GAkqCWNob2MgY2hpcDILCAkSB0Nvb2tpZXNgAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAF6BAgeEF8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cookies+choc+chip"
+        },
+        {
+            "query": "Nearby",
+            "link": "https://www.google.com/search?q=choc+chip+nearby&shoprs=GAMqCWNob2MgY2hpcDIMCAMSBk5lYXJieRgCWOrMH2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAJ6BAgeEGA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip+nearby"
+        },
+        {
+            "query": "Get it today",
+            "link": "https://www.google.com/search?q=choc+chip&shoprs=Eg2aAQoKCBAAOAFABEgBGBQqCWNob2MgY2hpcDIlCBQSDEdldCBpdCB0b2RheSINmgEKCggQADgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAN6BAgeEGE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip"
+        },
+        {
+            "query": "Baking Mixes",
+            "link": "https://www.google.com/search?q=baking+mixes+choc+chip&shoprs=GAkqCWNob2MgY2hpcDIQCAkSDEJha2luZyBNaXhlc2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAR6BAgeEGI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+mixes+choc+chip"
+        },
+        {
+            "query": "Price",
+            "link": "https://www.google.com/search?q=price+choc+chip&shoprs=GBIqCWNob2MgY2hpcDIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAV6BAgeEGM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=price+choc+chip"
+        },
+        {
+            "query": "Breakfast & Cereal Bars",
+            "link": "https://www.google.com/search?q=breakfast+%26+cereal+bars+choc+chip&shoprs=GAkqCWNob2MgY2hpcDIbCAkSF0JyZWFrZmFzdCAmIENlcmVhbCBCYXJzYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAZ6BAgeEGQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=breakfast+%26+cereal+bars+choc+chip"
+        },
+        {
+            "query": "On sale",
+            "link": "https://www.google.com/search?q=choc+chip+sale&shoprs=EgRKAhgBGAYqCWNob2MgY2hpcDITCAYSB09uIHNhbGUYAiIESgIYAVjqzB9gAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAd6BAgeEGU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip+sale"
+        },
+        {
+            "query": "Pink",
+            "link": "https://www.google.com/search?q=pink+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIWCAESBFBpbms6DAjYjPUBEOmK9QEwC1jqzB9gAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAh6BAgeEGY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=pink+choc+chip"
+        },
+        {
+            "query": "Buy",
+            "link": "https://www.google.com/search?q=buy+choc+chip&shoprs=GBIqCWNob2MgY2hpcDIHCBISA0J1eWAB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAl6BAgeEGc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buy+choc+chip"
+        },
+        {
+            "query": "Cookie Dough",
+            "link": "https://www.google.com/search?q=cookie+dough+choc+chip&shoprs=GAkqCWNob2MgY2hpcDIQCAkSDENvb2tpZSBEb3VnaGAB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAp6BAgeEGg",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cookie+dough+choc+chip"
+        },
+        {
+            "query": "Cookie",
+            "link": "https://www.google.com/search?q=cookie+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIWCAESBkNvb2tpZToKCKCDOhCogzowAljqzB9gAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAt6BAgeEGk",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=cookie+choc+chip"
+        },
+        {
+            "query": "Brown",
+            "link": "https://www.google.com/search?q=brown+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIXCAESBUJyb3duOgwI2Iz1ARDrivUBMAtY6swfYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKAx6BAgeEGo",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=brown+choc+chip"
+        },
+        {
+            "query": "Gluten-free",
+            "link": "https://www.google.com/search?q=gluten-free+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIdCAESC0dsdXRlbi1mcmVlOgwIsoqIARCziogBMANY6swfYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKA16BAgeEGs",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=gluten-free+choc+chip"
+        },
+        {
+            "query": "Baking Chips",
+            "link": "https://www.google.com/search?q=baking+chips+choc+chip&shoprs=GAkqCWNob2MgY2hpcDIQCAkSDEJha2luZyBDaGlwc2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKA56BAgeEGw",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=baking+chips+choc+chip"
+        },
+        {
+            "query": "Nutrition Bars",
+            "link": "https://www.google.com/search?q=nutrition+bars+choc+chip&shoprs=GAkqCWNob2MgY2hpcDISCAkSDk51dHJpdGlvbiBCYXJzYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKA96BAgeEG0",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=nutrition+bars+choc+chip"
+        },
+        {
+            "query": "10 ounces \u2013 1 pound",
+            "link": "https://www.google.com/search?q=10+ounces+to+1+pound+choc+chip&shoprs=EhsqGQidn-kBEhIJAAAAgOy3cUARAAAAYHpZfEAYASoJY2hvYyBjaGlwMlsIARIVMTAgb3VuY2VzIOKAkyAxIHBvdW5kIhsqGQidn-kBEhIJAAAAgOy3cUARAAAAYHpZfEAqGAoUMTAgb3VuY2VzIHRvIDEgcG91bmQYAToJCJ2f6QEQADAGWOrMH2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBB6BAgeEG4",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=10+ounces+to+1+pound+choc+chip"
+        },
+        {
+            "query": "Reviews",
+            "link": "https://www.google.com/search?q=reviews+choc+chip&shoprs=GBIqCWNob2MgY2hpcDILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBF6BAgeEG8",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=reviews+choc+chip"
+        },
+        {
+            "query": "Free",
+            "link": "https://www.google.com/search?q=free+choc+chip&shoprs=GBIqCWNob2MgY2hpcDIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBJ6BAgeEHA",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=free+choc+chip"
+        },
+        {
+            "query": "Orange",
+            "link": "https://www.google.com/search?q=orange+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIYCAESBk9yYW5nZToMCNiM9QEQ7or1ATALWOrMH2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBN6BAgeEHE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=orange+choc+chip"
+        },
+        {
+            "query": "7 \u2013 10 ounces",
+            "link": "https://www.google.com/search?q=7+ounces+to+10+ounces+choc+chip&shoprs=EhsqGQidn-kBEhIJAAAAAEvOaEARAAAAgOy3cUAYASoJY2hvYyBjaGlwMlYIARIPNyDigJMgMTAgb3VuY2VzIhsqGQidn-kBEhIJAAAAAEvOaEARAAAAgOy3cUAqGQoVNyBvdW5jZXMgdG8gMTAgb3VuY2VzGAE6CQidn-kBEAAwBljqzB9gAQ&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBR6BAgeEHI",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=7+ounces+to+10+ounces+choc+chip"
+        },
+        {
+            "query": "Dark Chocolate",
+            "link": "https://www.google.com/search?q=dark+chocolate+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIeCAESDkRhcmsgQ2hvY29sYXRlOgoI8uQ5EIiFPTACWOrMH2AB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBV6BAgeEHM",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=dark+chocolate+choc+chip"
+        },
+        {
+            "query": "For Sale",
+            "link": "https://www.google.com/search?q=choc+chip+for+sale&shoprs=GBIqCWNob2MgY2hpcDIMCBISCEZvciBTYWxlYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBZ6BAgeEHQ",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip+for+sale"
+        },
+        {
+            "query": "Recipe",
+            "link": "https://www.google.com/search?q=recipe+choc+chip&shoprs=GBIqCWNob2MgY2hpcDIKCBISBlJlY2lwZWAB&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBd6BAgeEHU",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=recipe+choc+chip"
+        },
+        {
+            "query": "Vegan",
+            "link": "https://www.google.com/search?q=vegan+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIXCAESBVZlZ2FuOgwIwr2HARDDvYcBMANY6swfYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBh6BAgeEHY",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=vegan+choc+chip"
+        },
+        {
+            "query": "White",
+            "link": "https://www.google.com/search?q=white+choc+chip&shoprs=GAEqCWNob2MgY2hpcDIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtY6swfYAE&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQip4GKBl6BAgeEHc",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=white+choc+chip"
+        }
+    ],
+    "things_to_know": {
+        "buttons": [
+            {
+                "text": "Recipes",
+                "subtitle": "Chocolate Chip Recipes",
+                "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff56032156668ce4fd18cb2f4577f4ffed8e39e280c2811960e10aaa.png",
+                "web_links": [
+                    {
+                        "title": "The Best Chocolate Chip Cookie Recipe Ever",
+                        "snippet": "Instructions \u00b7 Preheat oven to 375 degrees F. Line three baking sheets with parchment paper and set aside....",
+                        "link": "https://joyfoodsunshine.com/the-most-amazing-chocolate-chip-cookies/",
+                        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSI9iqH4ws2olwQDid4gpto-XUvNxb_3aVoBoX3BISOm8Uzz80lp4zj8wCuIxg",
+                        "source": "JoyFoodSunshine",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff56032156668ce4fd18cb2fa69bc1c250c6a774004329d68b4c2b80d42d5209a38c2ab89006b5bb219f30cf.png"
+                    },
+                    {
+                        "title": "Chewy Chocolate Chip Cookies - Sally's Baking",
+                        "snippet": "These super soft and chewy chocolate chip cookies are the most popular cookie recipe on my website. Melted butter, more...",
+                        "link": "https://sallysbakingaddiction.com/chewy-chocolate-chip-cookies/",
+                        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZgqmuShYpV_fFpoL1s4c5WGkjAlKqY__0g74tqIewkvEOyXKyJjEK512OXrA",
+                        "source": "Sally's Baking Addiction",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff56032156668ce4fd18cb2fa69bc1c250c6a774d5180a47dd01950e9119596ae23318910ad3e0ea6a1f6192.png"
+                    }
+                ],
+                "search_link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=chocolate+chip+recipes&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQrooIegQIOxAF",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=chocolate+chip+recipes"
+            },
+            {
+                "text": "Ingredients",
+                "subtitle": "Chocolate Chip Ingredients",
+                "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff560321073cffa4ec41eaf72efc225bda9f6761e523e00e533ebe18.png",
+                "web_links": [
+                    {
+                        "title": "Chewy Chocolate Chip Cookies - Simply Recipes",
+                        "snippet": "It's thanks to Christina's chocolate chip cookie recipe that I discovered the wonders of this one special...",
+                        "link": "https://www.simplyrecipes.com/recipes/chocolate_chip_cookies/",
+                        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8q-HJsa-T1KzzvsNnp7VrT9xFYU2B8qUY-3HYN0gMJXWjRyV3ISTvrN4jstY",
+                        "source": "Simply Recipes",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff560321073cffa4ec41eaf74c58baf8876c62b7ff3204f0297bdaabc739b8ef893a93b4e3ee7a4088fb93df.png"
+                    },
+                    {
+                        "title": "Nestle Toll House Semi Sweet Chocolate Chips - H-E-B",
+                        "snippet": "Ingredients. Sugar, Chocolate, Cocoa Butter, Milkfat, Soy Lecithin, Natural Flavors. Allergens and safety warnings....",
+                        "link": "https://www.heb.com/product-detail/nestle-toll-house-semi-sweet-chocolate-chips/98335",
+                        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuKucQmVPlHpfU9FEleL6W0CKhd-vM0YOQouFfU_dUuVAc-v9YyIDLJHr6GCk",
+                        "source": "H-E-B",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff560321073cffa4ec41eaf74c58baf8876c62b76784f85662475d2bd1d6e73ae8433cd0613d57eb95cf8da1.png"
+                    }
+                ],
+                "search_link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=chocolate+chip+ingredients&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQrooIegQIOxAK",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=chocolate+chip+ingredients"
+            },
+            {
+                "text": "Healthy or not",
+                "subtitle": "What Are Healthy Chocolate Chips?",
+                "thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff5603216248ce89b5a0a1b595eb8737430a1f77bd3206634bdcd73a.png",
+                "web_links": [
+                    {
+                        "title": "Our 5 Favorite Low- and No-Sugar Chocolate Chips For",
+                        "snippet": "Varieties : dark chocolate, milk chocolate, white chocolate, peanut butter chips \u00b7 Per tablespoon: 70 calories, 6...",
+                        "link": "https://blog.ochsner.org/articles/chocolate-chips-best-and-worst-picks",
+                        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCk2Vzi5QRNVysn5YWn_wLHgeqoSA1bK1nMJPrJLTUIkRIX4INe4jOqDB7YQE",
+                        "source": "Ochsner Health",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff5603216248ce89b5a0a1b5c50a493e79688cbb10b91d99d8a2a696b8aa48333c6c0100925ba12b49662ba5.png"
+                    },
+                    {
+                        "title": "Healthy Chocolate Chips - Amazon.com",
+                        "snippet": "Dark Chocolate Chips by Lily's | Stevia Sweetened, No Added Sugar, Low-Carb \u00b7 Pascha, Organic Chocolate Chips...",
+                        "link": "https://www.amazon.com/Healthy-Chocolate-Chips/s?k=Healthy+Chocolate+Chips",
+                        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR54a-Xb8dsSIZlXSCcX4pSKQc1Absjs8LCjvcy892ILahXamno_QMczXScWgI",
+                        "source": "Amazon.com",
+                        "source_thumbnail": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff5603216248ce89b5a0a1b5c50a493e79688cbba0f155dacea2f52f9c929fe5cf3e2133a099ca23f1b113e2.png"
+                    }
+                ],
+                "search_link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=what+are+healthy+chocolate+chips&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQrooIegQIOxAP",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=what+are+healthy+chocolate+chips"
+            },
+            {
+                "text": "Common problems",
+                "subtitle": "Chocolate Chip Problems",
+                "title": "Common Baking Mistakes With Chocolate Chip Cookies - Taylor Chip",
+                "link": "https://taylorchip.com/blogs/news/common-baking-mistakes",
+                "displayed_link": "https://taylorchip.com \u203a blogs \u203a news \u203a common-baking-...",
+                "date": "Jul 28, 2024",
+                "snippet": "Ingredient Issues",
+                "snippet_highlighted_words": [
+                    "Ingredient Issues"
+                ],
+                "list": [
+                    "Using the Wrong Type of Flour. ... ",
+                    "Incorrect Butter Temperature. ... ",
+                    "Mismeasuring Sugar. ... ",
+                    "Overmixing the Dough. ... ",
+                    "Not Creaming Butter and Sugar Properly. ... ",
+                    "Uneven Distribution of Chocolate Chips. ... ",
+                    "Oven Not Properly Preheated. ... ",
+                    "Baking at the Wrong Temperature."
+                ],
+                "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff56032109402403b896544c15e0aee0325d1514d3925284227a578b.png",
+                "source": "taylorchip.com",
+                "search_link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=chocolate+chip+problems&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQrooIegQIOxAU",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=chocolate+chip+problems"
+            },
+            {
+                "text": "Calories",
+                "subtitle": "Chocolate Chip Calories",
+                "title": "Calories in 1 Chocolate Chips and Nutrition Facts - FatSecret",
+                "link": "https://www.fatsecret.com/calories-nutrition/generic/chocolate-chips?portionid=646192&portionamount=1.000#:~:text=There%20are%202%20calories%20in%201%20Chocolate%20Chips.&text=*%20The%20%25%20Daily%20Value%20(DV,contributes%20to%20a%20daily%20diet.",
+                "displayed_link": "https://www.fatsecret.com \u203a calories-nutrition \u203a generic",
+                "date": "May 10, 2020",
+                "snippet": "There are 2 calories in 1 Chocolate Chips. * The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet.",
+                "favicon": "https://serpapi.com/searches/6752070314c31ed7529327c1/images/194806c4ea3e3ca925762fdeff560321197411466d0330d868a3bb59d9f7ec80d3183681e3ce80ca.png",
+                "source": "fatsecret.com",
+                "search_link": "https://www.google.com/search?sca_esv=34e05643fe6f2863&q=chocolate+chip+calories&sa=X&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQrooIegQIOxAZ",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=chocolate+chip+calories"
+            }
+        ]
+    },
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=10&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8NMDegQIChAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=10&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAE",
+            "3": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=20&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAG",
+            "4": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=30&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAI",
+            "5": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=40&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAK",
+            "6": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=50&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAM",
+            "7": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=60&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAO",
+            "8": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=70&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAQ",
+            "9": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=80&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAS",
+            "10": "https://www.google.com/search?q=choc+chip&sca_esv=34e05643fe6f2863&ei=AwdSZ6OkKK2YwbkPv6iAuQg&start=90&sa=N&sstk=ATObxK50DzhWNvw0opgjWIZnhqy2JCuEZH6rbW-4YtSa4Qln0cHEj7jjoqENBTM5czgvpg1xs8iGD-HIvSpgwGfObBRHdeTFDPMfRg&ved=2ahUKEwjjsZ6ctpGKAxUtTDABHT8UIIcQ8tMDegQIChAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=choc+chip&start=90"
+        }
+    }
+}
