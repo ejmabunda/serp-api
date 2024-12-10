@@ -1,11 +1,67 @@
 /* Normalise styles */
 * {
   margin: 0;
-  padding: 0;
+  border: hidden;
+  padding: 5px;
   box-sizing: border-box; }
 
 html {
+  background-color: rgb(37, 37, 37);
   font-family: sans-serif, monospace;
   font-size: 16px; }
 
 /*# sourceMappingURL=main.css.map */
+
+body {
+  border: hidden;
+  margin: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+#tags {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  border-radius: 100px;
+}
+
+.search_result {
+  color: aliceblue;
+  margin-bottom: 10px;
+  border-top: solid;
+  border-right: solid;
+  border-color: rgb(30, 30, 30);
+  border-width: 2px;
+  padding-left: 0%;
+  padding-right: 50%;
+}
+
+
+footer {
+  border-top: dotted;
+  text-align: center;
+}
