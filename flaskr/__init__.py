@@ -4,9 +4,7 @@ import os
 from dotenv import load_dotenv
 import json
 import re
-
 from flaskr.storage import save
-
 
 app = Flask(__name__)
 load_dotenv()
@@ -18,9 +16,9 @@ def index():
 
 
 @app.route('/results', methods=['GET', 'POST'])
-def results(q: str = ''):
+def search(q: str = ''):
     if request.method == 'POST':
-        q = request.form.get('search')
+        q = request.form.get('search_query')
         params = {
             'q': q,
             'engine': 'google',
