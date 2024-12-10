@@ -4,7 +4,6 @@ import os
 from dotenv import load_dotenv
 import json
 import re
-
 from flaskr.storage import save
 
 
@@ -21,6 +20,7 @@ def index():
 def results(q: str = ''):
     if request.method == 'POST':
         q = request.form.get('search')
+
         params = {
             'q': q,
             'engine': 'google',

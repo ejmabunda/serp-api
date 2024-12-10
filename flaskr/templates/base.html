@@ -17,8 +17,8 @@
     <!-- Header section -->
     <header>
       <form method='post' action='/results'>
-	<input name='search' id='search' type='search' placeholder='Search the web'/>
-	<input name='submit' id='submit' type='submit'/>
+        <input name='search' id='search' type='search' placeholder='Search the web'/>
+        <input name='submit' id='submit' type='submit'/>
       </form>
     </header>
 
@@ -26,7 +26,10 @@
     <main>
       {% block results %}{% endblock %}
     </main>
-
+    
+    <!-- Sidebar -->
+    <aside></aside>
+    
     <!-- Footer section -->
     <footer>
       <p>Copyright &copy; 2024</p>
