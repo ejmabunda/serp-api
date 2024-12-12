@@ -5,7 +5,39 @@
   box-sizing: border-box; }
 
 html {
+  background-color: rgb(100, 100, 100);
   font-family: sans-serif, monospace;
   font-size: 16px; }
 
 /*# sourceMappingURL=main.css.map */
+
+body {
+  padding: 10px;
+}
+
+.organic_result {
+  padding: 15px;
+}
+
+a.link {
+  color: blue;
+}
+
+a.hover {
+  color: white;
+}
+
+a.visited {
+  color: grey;
+}
+
+form {
+  text-align: center;
+}
+
+footer {
+  margin: 10px;
+  padding: 5px;
+  border-top: dotted;
+  text-align: center;
+}
