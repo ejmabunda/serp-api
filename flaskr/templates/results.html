@@ -8,8 +8,8 @@
   <section id='organic_results'>
     {% for result in organic_results %}
     <section class='organic_result'>
-      <p class='link'>{{result['link']}}</p>
       <h2 class='title'>{{result['title']}}</h2>
+      <p class='link'>{{result['link']}}</p>
       <p class='description'>{{result['snippet']}}</p>
     </section>
     {% endfor %}
