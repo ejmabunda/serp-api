@@ -5,7 +5,7 @@
   box-sizing: border-box; }
 
 html {
-  background-color: rgb(100, 100, 100);
+  background-color: rgb(31, 31, 31);
   font-family: sans-serif, monospace;
   font-size: 16px; }
 
@@ -46,9 +46,11 @@ form {
 
 .organic_result {
   margin-right: 50%;
+  color: rgb(210, 210, 210)
 }
 
 .link {
+  color: blue;
   font-size: x-small;
 }
 
