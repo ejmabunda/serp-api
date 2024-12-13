@@ -4,55 +4,72 @@
   padding: 0;
   box-sizing: border-box; }
 
-html {
-  background-color: rgb(31, 31, 31);
-  font-family: sans-serif, monospace;
-  font-size: 16px; }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0; }
 
-/*# sourceMappingURL=main.css.map */
+html {
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif; }
 
 body {
   padding: 10px;
-}
-
-.organic_result {
-  padding: 15px;
-}
+  font-family: inherit; }
 
 a.link {
-  color: blue;
-}
+  color: blue; }
 
 a.hover {
-  color: white;
-}
+  color: white; }
 
 a.visited {
-  color: grey;
-}
+  color: grey; }
 
 form {
-  text-align: center;
-}
+  text-align: center; }
 
 .title {
-  font-family: "Brush Script MT", cursive;
-}
+  font-family: "Brush Script MT", cursive; }
 
 .description {
   font-family: Tahoma, Verdana, sans-serif;
-  font-size: small;
-}
+  font-size: small; }
 
 .organic_result {
   margin-right: 50%;
-  color: rgb(210, 210, 210)
-}
+  padding: 15px; }
+  .organic_result .link:hover > .title {
+    color: blue;
+    text-decoration: underline; }
+  .organic_result .link {
+    text-decoration: none; }
+    .organic_result .link * {
+      color: black; }
+    .organic_result .link .source {
+      display: flex;
+      gap: 1rem; }
+      .organic_result .link .source img {
+        max-width: 100%; }
+      .organic_result .link .source .text {
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        flex: 1;
+        justify-content: space-between; }
+    .organic_result .link .title {
+      margin-top: 0.5rem;
+      font-size: 1.3rem; }
+  .organic_result .description {
+    margin-top: 0.5rem; }
 
 .link {
   color: blue;
-  font-size: x-small;
-}
+  font-size: x-small; }
 
 #search {
   border: solid #00B4CC;
@@ -61,12 +78,10 @@ form {
   height: 20px;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #9DBFAF;
-}
+  color: #9DBFAF; }
 
-#search:focus{
-  color: #00B4CC;
-}
+#search:focus {
+  color: #00B4CC; }
 
 #submit {
   border: solid #00B4CC;
@@ -74,13 +89,12 @@ form {
   text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
-  cursor: pointer;
-}
+  cursor: pointer; }
 
 footer {
   margin: 10px;
   padding: 5px;
   border-top: dotted;
-  text-align: center;
-}
+  text-align: center; }
 
+/*# sourceMappingURL=main.css.map */

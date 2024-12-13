@@ -1,39 +1,43 @@
 <!DOCTYPE html>
 <html>
 
-  <head>
-    <!-- Metadata -->
-    <meta charset='utf-8'>
-    <meta name='description' content=''>
-    
-    <title>{% block title %}{% endblock %} - SERP app</title>
+<head>
+  <!-- Metadata -->
+  <meta charset='utf-8'>
+  <meta name='description' content=''>
 
-    <!-- Styles -->
-    <link rel='stylesheet' href='{{ url_for('static', filename='css/main.css') }}'>
-    <link rel='icon' type='x-icon/image' href='{{ url_for('static', filename='images/favicon.ico') }}'>
-  </head>
+  <title>{% block title %}{% endblock %} - SERP app</title>
 
-  <body>
-    <!-- Header section -->
-    <header>
-      <form method='post' action='/results'>
-        <input name='search' id='search' type='search' placeholder='Search the web'/>
-        <input name='submit' id='submit' type='submit'/>
-      </form>
-    </header>
+  <!-- Styles -->
+  <link rel='stylesheet' href='{{ url_for(' static', filename='css/main.css' ) }}'>
+  <link rel='icon' type='x-icon/image' href='{{ url_for(' static', filename='images/favicon.ico' ) }}'>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap"
+    rel="stylesheet">
+</head>
 
-    <!-- Main section -->
-    <main>
-      {% block results %}{% endblock %}
-    </main>
-    
-    <!-- Sidebar -->
-    <aside></aside>
-    
-    <!-- Footer section -->
-    <footer>
-      <p>Copyright &copy; 2024</p>
-    </footer>
-  </body>
+<body>
+  <!-- Header section -->
+  <header>
+    <form method='post' action='/results'>
+      <input name='search' id='search' type='search' placeholder='Search the web' autofocus />
+      <input name='submit' id='submit' type='submit' value="Search" />
+    </form>
+  </header>
+
+  <!-- Main section -->
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <!-- Sidebar -->
+  <aside></aside>
+
+  <!-- Footer section -->
+  <footer>
+    <p>Copyright &copy; 2024</p>
+  </footer>
+</body>
 
 </html>
