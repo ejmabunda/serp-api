@@ -9,3 +9,89 @@ html {
     font-family: sans-serif, monospace;
     font-size: 16px;
 }
+
+body {
+    padding: 10px;
+}
+
+a.link {
+    color: blue;
+}
+
+a.hover {
+    color: white;
+}
+
+a.visited {
+    color: grey;
+}
+
+form {
+    text-align: center;
+}
+
+.title {
+    font-family: "Brush Script MT", cursive;
+}
+
+.description {
+    font-family: Tahoma, Verdana, sans-serif;
+    font-size: small;
+}
+
+.organic_result {
+    margin-right: 50%;
+    color: rgb(210, 210, 210);
+    padding: 15px;
+}
+
+.link {
+    color: blue;
+    font-size: x-small;
+}
+
+#search {
+    border: solid #00B4CC;
+    border-right: none;
+    padding: 5px;
+    height: 20px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    color: #9DBFAF;
+}
+
+#search:focus {
+    color: #00B4CC;
+}
+
+#submit {
+    border: solid #00B4CC;
+    background: #00B4CC;
+    text-align: center;
+    color: #fff;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+}
+
+footer {
+    margin: 10px;
+    padding: 5px;
+    border-top: dotted;
+    text-align: center;
+}
+
+.link {
+    text-decoration: none;
+    color: black;
+
+    .source {
+        display: flex;
+
+        img {
+            width: 50px;
+        }
+        .text {
+            flex: 1;
+        }
+    }
+}

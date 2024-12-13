@@ -5,54 +5,39 @@
   box-sizing: border-box; }
 
 html {
-  background-color: rgb(31, 31, 31);
   font-family: sans-serif, monospace;
   font-size: 16px; }
 
-/*# sourceMappingURL=main.css.map */
-
 body {
-  padding: 10px;
-}
-
-.organic_result {
-  padding: 15px;
-}
+  padding: 10px; }
 
 a.link {
-  color: blue;
-}
+  color: blue; }
 
 a.hover {
-  color: white;
-}
+  color: white; }
 
 a.visited {
-  color: grey;
-}
+  color: grey; }
 
 form {
-  text-align: center;
-}
+  text-align: center; }
 
 .title {
-  font-family: "Brush Script MT", cursive;
-}
+  font-family: "Brush Script MT", cursive; }
 
 .description {
   font-family: Tahoma, Verdana, sans-serif;
-  font-size: small;
-}
+  font-size: small; }
 
 .organic_result {
   margin-right: 50%;
-  color: rgb(210, 210, 210)
-}
+  color: #d2d2d2;
+  padding: 15px; }
 
 .link {
   color: blue;
-  font-size: x-small;
-}
+  font-size: x-small; }
 
 #search {
   border: solid #00B4CC;
@@ -61,12 +46,10 @@ form {
   height: 20px;
   border-radius: 5px 0 0 5px;
   outline: none;
-  color: #9DBFAF;
-}
+  color: #9DBFAF; }
 
-#search:focus{
-  color: #00B4CC;
-}
+#search:focus {
+  color: #00B4CC; }
 
 #submit {
   border: solid #00B4CC;
@@ -74,13 +57,22 @@ form {
   text-align: center;
   color: #fff;
   border-radius: 0 5px 5px 0;
-  cursor: pointer;
-}
+  cursor: pointer; }
 
 footer {
   margin: 10px;
   padding: 5px;
   border-top: dotted;
-  text-align: center;
-}
+  text-align: center; }
 
+.link {
+  text-decoration: none;
+  color: black; }
+  .link .source {
+    display: flex; }
+    .link .source img {
+      width: 50px; }
+    .link .source .text {
+      flex: 1; }
+
+/*# sourceMappingURL=main.css.map */

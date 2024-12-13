@@ -11,3 +11,6 @@ __pycache__/
 # Ignore the Python virtual environment
 .venv/
 venv/
+
+# Ignore the JSON search results file
+search_results.json

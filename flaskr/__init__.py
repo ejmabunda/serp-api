@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request
-from serpapi import GoogleSearch
+import serpapi
 import os
 from dotenv import load_dotenv
 import json
@@ -26,14 +26,15 @@ def results(q: str = ''):
             'engine': 'google',
             'api_key': os.environ.get('SERP_API_KEY')
         }
-        search = GoogleSearch(params)
-        search_dict = search.get_dict()
-        # Save to a json file
-        save(search_dict)
+        # search = serpapi.search(params)
+        # search_dict = search.as_dict()
+        # # Save to a json file
+        # save(search_dict)
+
+        with open('search_results.json', 'r') as file:
+            search_dict = json.load(file)
         
         organic_results = search_dict['organic_results']
-        knowledge_graph = search_dict['knowledge_graph']
+        print(organic_results)
         
-    return render_template('results.html',
-                           organic_results=organic_results,
-                           knowledge_graph=knowledge_graph)
+    return render_template('results.html', o_res=organic_results)

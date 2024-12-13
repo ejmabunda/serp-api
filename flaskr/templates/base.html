@@ -17,14 +17,14 @@
     <!-- Header section -->
     <header>
       <form method='post' action='/results'>
-        <input name='search' id='search' type='search' placeholder='Search the web'/>
-        <input name='submit' id='submit' type='submit'/>
+        <input name='search' id='search' type='search' placeholder='Search the web' autofocus/>
+        <input name='submit' id='submit' type='submit' value="Search"/>
       </form>
     </header>
 
     <!-- Main section -->
     <main>
-      {% block results %}{% endblock %}
+      {% block content %}{% endblock %}
     </main>
     
     <!-- Sidebar -->
