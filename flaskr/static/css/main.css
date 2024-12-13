@@ -4,12 +4,22 @@
   padding: 0;
   box-sizing: border-box; }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0; }
+
 html {
-  font-family: sans-serif, monospace;
-  font-size: 16px; }
+  font-size: 16px;
+  font-family: "Montserrat", sans-serif; }
 
 body {
-  padding: 10px; }
+  padding: 10px;
+  font-family: inherit; }
 
 a.link {
   color: blue; }
@@ -32,8 +42,30 @@ form {
 
 .organic_result {
   margin-right: 50%;
-  color: #d2d2d2;
   padding: 15px; }
+  .organic_result .link:hover > .title {
+    color: blue;
+    text-decoration: underline; }
+  .organic_result .link {
+    text-decoration: none; }
+    .organic_result .link * {
+      color: black; }
+    .organic_result .link .source {
+      display: flex;
+      gap: 1rem; }
+      .organic_result .link .source img {
+        max-width: 100%; }
+      .organic_result .link .source .text {
+        display: flex;
+        flex-direction: column;
+        gap: 0.3rem;
+        flex: 1;
+        justify-content: space-between; }
+    .organic_result .link .title {
+      margin-top: 0.5rem;
+      font-size: 1.3rem; }
+  .organic_result .description {
+    margin-top: 0.5rem; }
 
 .link {
   color: blue;
@@ -64,15 +96,5 @@ footer {
   padding: 5px;
   border-top: dotted;
   text-align: center; }
-
-.link {
-  text-decoration: none;
-  color: black; }
-  .link .source {
-    display: flex; }
-    .link .source img {
-      width: 50px; }
-    .link .source .text {
-      flex: 1; }
 
 /*# sourceMappingURL=main.css.map */

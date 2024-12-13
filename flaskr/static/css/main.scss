@@ -5,13 +5,24 @@
     box-sizing: border-box;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+}
+
 html {
-    font-family: sans-serif, monospace;
     font-size: 16px;
+    font-family: "Montserrat", sans-serif;
 }
 
 body {
     padding: 10px;
+    font-family: inherit;
 }
 
 a.link {
@@ -41,8 +52,47 @@ form {
 
 .organic_result {
     margin-right: 50%;
-    color: rgb(210, 210, 210);
+    // color: rgb(210, 210, 210);
     padding: 15px;
+
+    .link:hover>.title {
+        color: blue;
+        text-decoration: underline;
+    }
+
+    .link {
+        text-decoration: none;
+
+        * {
+            color: black;
+        }
+
+        .source {
+            display: flex;
+            gap: 1rem;
+
+            img {
+                max-width: 100%;
+            }
+
+            .text {
+                display: flex;
+                flex-direction: column;
+                gap: 0.3rem;
+                flex: 1;
+                justify-content: space-between;
+            }
+        }
+
+        .title {
+            margin-top: 0.5rem;
+            font-size: 1.3rem;
+        }
+    }
+
+    .description {
+        margin-top: 0.5rem;
+    }
 }
 
 .link {
@@ -78,20 +128,4 @@ footer {
     padding: 5px;
     border-top: dotted;
     text-align: center;
-}
-
-.link {
-    text-decoration: none;
-    color: black;
-
-    .source {
-        display: flex;
-
-        img {
-            width: 50px;
-        }
-        .text {
-            flex: 1;
-        }
-    }
 }
